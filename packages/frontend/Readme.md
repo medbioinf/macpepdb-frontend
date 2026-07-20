@@ -1,5 +1,7 @@
 # MaCPepDB Frontend
 
+THIS IS NOW MAINTAINED AS PART OF THE MACPEPDB REPO IN https://github.com/medbioinf/macpepdb
+
 MaCPepDB only provides an web API for accessing the data. This is a separate frontend to make data access much easier.
 
 
